@@ -1,0 +1,89 @@
+.TABELA{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 25%;
+    height: 50%;
+    background-color: black;
+}
+
+.tabelas{
+    background-color: #606060;
+}
+
+.logo{
+    width: 80px;
+}
+
+.titulo{
+    font-weight: bold;
+    width: 45%;
+}
+
+.pilotos{
+    width: 70px;
+}
+
+.equipe{
+    width: 150px;
+}
+
+.piloto{
+    background-color: #8A8A8A;
+}
+
+.país{
+    width: 25px;
+    background-color: #CACACA ;
+}
+
+.equipe{
+    background-color: #8A8A8A;
+}
+
+.tabela1etapa{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    page-break-inside: auto;
+    width: 100px;
+    margin-top: -1850px;
+    margin-left: 467px;
+    background-color: #d5d3d3;
+    position: relative;
+    
+}
+
+.etapa1logo{
+    width: 10px;
+    page-break-inside: auto;
+}
+.img{
+    width: 18px;
+}
+
+.tabela2etapa{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    page-break-inside: auto;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 467px;
+    background-color: #d5d3d3;
+    position: relative;
+}
+
+.tabela3etapa{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    page-break-inside: auto;
+    width: 450px;
+    margin-top: 10px;
+    margin-left: 467px;
+    background-color: #d5d3d3;
+    position: relative;
+}
+
+.Automobilista{
+    width: 60px;
+}
+
+

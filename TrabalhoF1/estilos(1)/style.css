@@ -1,0 +1,21 @@
+.table{ background-color: lightblue;
+    
+
+}
+.number{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: grey;
+    color: beige;
+}
+.position{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: darkgray;
+}
+.equip{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: lightcoral;
+    background-color: lightblue;
+}
